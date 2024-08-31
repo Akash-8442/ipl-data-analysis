@@ -22,3 +22,9 @@ The IPL Data Analysis project leverages Apache Spark and PySpark for large-scale
 
 ## Scripts For Project 
 [IPL-DATA-ANALYSIS IPYNB FILE](https://github.com/Akash-8442/ipl-data-analysis/blob/main/IPL-DATA-ANALYSIS-PYSPARK%202024-08-22%2023_30_14.ipynb)
+
+## Some Project Outcomes 
+![Impact of toss on match](team_performance_after_winning_toss.png)
+
+
+![Toss_impact](toss_impact.png)
